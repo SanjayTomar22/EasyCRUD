@@ -7,7 +7,7 @@ metadata:
 spec:
   containers:
     - name: backend-app
-      image: shubhamkalsait1/easy-backend:latest
+      image: kubesanjay/easy-backend:latest
       ports:
         - containerPort: 8080
 
