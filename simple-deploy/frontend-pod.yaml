@@ -7,7 +7,7 @@ metadata:
 spec:
   containers:
     - name: frontend-app
-      image: shubhamkalsait1/easy-frontend:latest
+      image: kubesanjay/easy-frontend:latest
       ports:
         - containerPort: 80
 ---
